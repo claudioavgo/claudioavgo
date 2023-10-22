@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">Cláudio Alves</h1>
-<p align="center">
+<h1 align="center">Cláudio Alves</h1></h1>
+
 <h4 align="center">Olá, me chamo Cláudio, um entusiasta de tecnologia apaixonado por desenvolvimento. Atualmente, atuo como desenvolvedor back-end, trabalhando pela UNISÃOMIGUEL.</h4>
 
 <h4>🎯 Meu objetivo?</h4>
