@@ -2,13 +2,13 @@
 
 Olá, me chamo Cláudio, um entusiasta de tecnologia apaixonado por desenvolvimento. Atualmente, atuo como desenvolvedor back-end, trabalhando pela <a href="https://github.com/UNISAOMIGUEL">UNISÃOMIGUEL</a>.
 
-<h4>🎯 Meu objetivo?</h4>
-Tornar-me um Engenheiro de Software de excelência!
-
-
-Sinta-se à vontade para explorar meus projetos e contribuir com sugestões, dicas ou colaborações.
-
+🎯 Meu objetivo? Tornar-me um Engenheiro de Software de excelência!
+<br>
+<br>
+😉 Sinta-se à vontade para explorar meus projetos e contribuir com sugestões, dicas ou colaborações.
+<br><br>
 Obrigado por visitar meu perfil. Se você quiser entrar em contato ou saber mais sobre meu trabalho, fique à vontade para me contatar.
+hi@claudioav.com
 
 ----
 
