@@ -3,7 +3,7 @@
 Olá, me chamo Cláudio, um entusiasta de tecnologia apaixonado por desenvolvimento. Atualmente, atuo como desenvolvedor back-end, trabalhando pela <a href="https://github.com/UNISAOMIGUEL">UNISÃOMIGUEL</a>.
 
 <h4>🎯 Meu objetivo?</h4>
-Tornar-me um Engenheiro de Software de excelência! Trabalho diariamente para aprimorar minhas habilidades, aprender novas tecnologias e abraçar desafios que ampliem meu conhecimento. Neste repositório, você encontrará projetos e trabalhos que refletem meu progresso e meu compromisso com a evolução constante.
+Tornar-me um Engenheiro de Software de excelência!
 
 
 Sinta-se à vontade para explorar meus projetos e contribuir com sugestões, dicas ou colaborações.
