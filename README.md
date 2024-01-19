@@ -18,36 +18,48 @@ hi@claudioav.com
   <img alt="abindent's streak" src="https://github-readme-streak-stats.herokuapp.com?user=claudioavgo&theme=radical&locale=pt-br"/>
 </div>
 
-# Stacks
+----
+
+### 🪄 Linguagens de programação
 <div style="flex">
-  <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-a?logo=Python&logoColor=black&color=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Java-a?logo=openjdk&logoColor=black&color=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-a?style=flat&logo=html5&logoColor=black&color=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-a?logo=css3&logoColor=black&color=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-a?style=flat&logo=JavaScript&logoColor=black&color=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-asdasd?style=flat&logo=C&logoColor=black&color=white">
 </div>
 
-### DB's
+### 📦 Banco de dados
 <div style="flex">
-<img align="center" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-a?style=flat&logo=PostgreSQL&logoColor=white&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-a?style=flat&logo=MongoDB&logoColor=white&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Supabase-a?style=flat&logo=Supabase&logoColor=white&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Redis-a?style=flat&logo=Redis&logoColor=white&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/sqlite-a?style=flat&logo=sqlite&logoColor=white&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/mariadb-a?style=flat&logo=mariadb&logoColor=white&color=blue">
 </div>
 
-### Frameworks
+### 🔧 Frameworks
 <div style="flex">
-  <img align="center" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-  <img align="center" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Flask-a?style=flat&logo=Flask&logoColor=white&color=red">
+  <img alt="Static Badge" src="https://img.shields.io/badge/FastAPi-a?style=flat&logo=FastAPi&logoColor=white&color=red">
+  <img alt="Static Badge" src="https://img.shields.io/badge/SQLAlchemy-a?style=flat&logo=SQlAlchemy&logoColor=white&color=red">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Django-a?style=flat&logo=Django&logoColor=white&color=red">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Jinja-a?style=flat&logo=Jinja&logoColor=white&color=red">
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-a?style=flat&logo=React&logoColor=white&color=red">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Express-a?style=flat&logo=Express&logoColor=white&color=red">
+  <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-a?style=flat&logo=SpringBoot&logoColor=white&color=red">
 </div>
 
-### Hosts
+### ☁️ Serviços de nuvem
+
 <div style="flex">
-  <img align="center" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
-  <img align="center" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D">
-  <img align="center" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Azure-a?style=flat&logo=MicrosoftAzure&logoColor=white&color=purple">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-a?style=flat&logo=Firebase&logoColor=white&color=purple">
+  <img alt="Static Badge" src="https://img.shields.io/badge/AWS-a?style=flat&logo=Amazonaws&logoColor=white&color=purple">
+  <img alt="Static Badge" src="https://img.shields.io/badge/DigitalOcean-a?style=flat&logo=digitalocean&logoColor=white&color=purple">
+  <img alt="Static Badge" src="https://img.shields.io/badge/OVH-a?style=flat&logo=ovh&logoColor=white&color=purple">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Vercel-a?style=flat&logo=Vercel&logoColor=white&color=purple">
+
 </div>
