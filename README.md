@@ -24,8 +24,6 @@ hi@claudioav.com
 <div style="flex">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-a?logo=Python&logoColor=black&color=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-a?logo=openjdk&logoColor=black&color=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-a?style=flat&logo=html5&logoColor=black&color=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-a?logo=css3&logoColor=black&color=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-a?style=flat&logo=JavaScript&logoColor=black&color=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/-asdasd?style=flat&logo=C&logoColor=black&color=white">
 </div>
