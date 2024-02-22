@@ -1,6 +1,6 @@
 <h1 align="center">Cláudio Alves</h1>
 
-Olá, me chamo Cláudio, um entusiasta de tecnologia apaixonado por desenvolvimento. Atualmente, atuo como desenvolvedor Full-Stack, trabalhando pela <a href="https://github.com/UNISAOMIGUEL">UNISÃOMIGUEL</a>.
+Olá, me chamo Cláudio, um entusiasta de tecnologia apaixonado por desenvolvimento. Atualmente, atuo como desenvolvedor Full-Stack.
 
 🎯 Meu objetivo? Tornar-me um Engenheiro de Software de excelência!
 <br>
