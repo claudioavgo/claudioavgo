@@ -48,6 +48,7 @@ hi@claudioav.com
   <img alt="Static Badge" src="https://img.shields.io/badge/React-a?style=flat&logo=React&logoColor=white&color=red">
   <img alt="Static Badge" src="https://img.shields.io/badge/Express-a?style=flat&logo=Express&logoColor=white&color=red">
   <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-a?style=flat&logo=SpringBoot&logoColor=white&color=red">
+  <img alt="Static Badge" src="https://img.shields.io/badge/NestJS-a?style=flat&logo=NestJS&logoColor=white&color=red">
 </div>
 
 ### ☁️ Serviços de nuvem
