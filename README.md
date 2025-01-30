@@ -15,7 +15,7 @@ hi@claudioav.com
 <h3 align="center">⚙️  GitHub Analytics</h3>
 
 <div display="flex" align="center">
-  <img alt="abindent's streak" src="https://github-readme-streak-stats.herokuapp.com?user=claudioavgo&theme=radical&locale=pt-br"/>
+  <img alt="abindent's streak" src="https://streak-stats.demolab.com?user=claudioavgo&theme=transparent"/>
 </div>
 
 ----
