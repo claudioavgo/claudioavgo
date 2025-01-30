@@ -12,14 +12,6 @@ hi@claudioav.com
 
 ----
 
-<h3 align="center">⚙️  GitHub Analytics</h3>
-
-<div display="flex" align="center">
-  <img alt="abindent's streak" src="https://streak-stats.demolab.com?user=claudioavgo&theme=transparent"/>
-</div>
-
-----
-
 ### 🪄 Linguagens de programação
 <div style="flex">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-a?logo=Python&logoColor=black&color=white">
