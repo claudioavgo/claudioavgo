@@ -21,6 +21,7 @@ Feel free to explore my repositories and reach out for suggestions, tips, or col
   <img alt="Python" src="https://img.shields.io/badge/Python-a?logo=Python&logoColor=black&color=white"/>&nbsp;
   <img alt="Java" src="https://img.shields.io/badge/Java-a?logo=openjdk&logoColor=black&color=white"/>&nbsp;
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-a?style=flat&logo=JavaScript&logoColor=black&color=white"/>&nbsp;
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-a?style=flat&logo=TypeScript&logoColor=black&color=white"/>&nbsp;
   <img alt="C" src="https://img.shields.io/badge/C-a?style=flat&logo=C&logoColor=black&color=white"/>
 </p>
 
