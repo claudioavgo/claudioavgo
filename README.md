@@ -25,8 +25,6 @@ Feel free to explore my repositories and reach out for suggestions, tips, or col
   <img alt="C" src="https://img.shields.io/badge/C-a?style=flat&logo=C&logoColor=black&color=white"/>
 </p>
 
----
-
 ## 📦 Databases
 
 <p align="center">
@@ -37,8 +35,6 @@ Feel free to explore my repositories and reach out for suggestions, tips, or col
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-a?style=flat&logo=sqlite&logoColor=white&color=blue"/>&nbsp;
   <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-a?style=flat&logo=mariadb&logoColor=white&color=blue"/>
 </p>
-
----
 
 ## 🔧 Frameworks & Libraries
 
@@ -54,8 +50,6 @@ Feel free to explore my repositories and reach out for suggestions, tips, or col
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-a?style=flat&logo=NestJS&logoColor=white&color=red"/>
 </p>
 
----
-
 ## ☁️ Cloud Services
 
 <p align="center">
@@ -66,8 +60,6 @@ Feel free to explore my repositories and reach out for suggestions, tips, or col
   <img alt="OVH" src="https://img.shields.io/badge/OVH-a?style=flat&logo=ovh&logoColor=white&color=purple"/>&nbsp;
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-a?style=flat&logo=Vercel&logoColor=white&color=purple"/>
 </p>
-
----
 
 ## 💬 Connect
 
