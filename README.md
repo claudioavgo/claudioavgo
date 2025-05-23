@@ -1,12 +1,5 @@
 <h1 align="center">Cláudio Alves</h1>
 
-<p align="center">
-  <a href="https://github.com/claudioavgo?tab=followers"><img src="https://img.shields.io/github/followers/claudioavgo?label=Followers&style=flat-square" alt="Followers"/></a>
-  <a href="https://github.com/claudioavgo?tab=stars"><img src="https://img.shields.io/github/stars/claudioavgo?label=Stars&style=flat-square" alt="Stars"/></a>
-</p>
-
----
-
 ## 👋 About Me
 
 I’m Cláudio, a technology enthusiast and software developer. My goal is to grow into an outstanding Software Engineer through continuous learning and hands‑on projects.
