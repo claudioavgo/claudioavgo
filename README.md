@@ -1,9 +1,15 @@
-<h1 align="center">Cláudio Alves</h1>
+<h1 align="center">Cláudio Alves Gonçalves de Oliveira</h1>
 
-I’m Cláudio, a technology enthusiast and software developer. My goal is to grow into an outstanding Software Engineer through continuous learning and hands‑on projects.
+<p align="center">
+  Computer Science student at CESAR School (2026) ⚡ Software developer since age 13  
+  <br>
+  Building practical, creative solutions—currently working on Azuli, a sales platform  
+</p>
 
-Feel free to explore my repositories and reach out for suggestions, tips, or collaborations at **hi@claudioav.com**.
+---
 
+I turn ideas into working software and love tackling challenges head-on. My journey started early, and today I combine curiosity, creativity and a “get-it-done” attitude to deliver real value.
 
-<p align="center"><em>Thank you for visiting!</em></p>
+Feel free to explore my repositories and see for yourself what I’ve built.
 
+<p align="center"><em>Thanks for stopping by!</em></p>
