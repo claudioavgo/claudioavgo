@@ -1,4 +1,4 @@
-<h1 align="center">Cláudio Alves Gonçalves de Oliveira</h1>
+<h1 align="center">Cláudio Alves</h1>
 
 <p align="center">
   Computer Science student at CESAR School (2026) ⚡ Software developer since age 13  
