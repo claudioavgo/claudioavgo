@@ -1,7 +1,7 @@
 <h1 align="center">Cláudio Alves</h1>
 
 <p align="center">
-  Computer Science student at CESAR School (2026) ⚡ Software developer since age 13  
+  Computer Science at CESAR School (2026) ⚡ Software engineer since age 13
   <br>
   Building practical, creative solutions—currently working on Azuli, a sales platform  
 </p>
