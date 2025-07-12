@@ -3,7 +3,7 @@
 <p align="center">
   Computer Science at CESAR School (2026) ⚡ Software engineer since age 13
   <br>
-  Building practical, creative solutions—currently working on Azuli, a sales platform  
+  Building practical, creative solutions
 </p>
 
 ---
